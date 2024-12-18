@@ -1,0 +1,1 @@
+creating sample .txt file in gitbash and then adding it to your repo on github
